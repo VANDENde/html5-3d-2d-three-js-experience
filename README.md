@@ -6,6 +6,8 @@ The final goalof this work is unknown until now.
 Work in progress...
 maybe check out current *.html files, if there are any files. 
 
+The work is based on the samples of threejs.org
+
 cheers,
 
 Vanden in 2014
